@@ -1,9 +1,5 @@
 <template>
-  <v-sheet
-      height="100%"
-      class="overflow-hidden"
-      style="position: relative;"
-  >
+
     <v-navigation-drawer
         v-model="getDrawer"
         absolute
@@ -37,7 +33,7 @@
         </v-list-item>
       </v-list>
     </v-navigation-drawer>
-  </v-sheet>
+
 </template>
 
 <script>

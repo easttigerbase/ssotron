@@ -10,8 +10,6 @@
                    max-height="100%">
         <!-- If using vue-router -->
         <router-view style="height: 1000px;"></router-view>
-
-
       </v-container>
     </v-main>
   </v-app>
